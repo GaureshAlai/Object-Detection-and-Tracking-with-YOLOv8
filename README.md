@@ -143,8 +143,8 @@ This project is licensed under the MIT License.
 ---
 
 ### Folder Structure:
-- `task1.mp4`: Input video.
-- `task3.mp4`: Output video with object tracking.
-- `video_object_tracking.py`: Python script for video recognition and tracking.
-- `image_object_detection.py`: Python script for image recognition.
+- `input.mp4`: Input video.
+- `output.mp4`: Output video with object tracking.
+- `video_object_tracking.ipynb`: Python script for video recognition and tracking.
+- `image_object_detection.ipynb`: Python script for image recognition.
 
