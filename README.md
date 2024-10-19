@@ -63,7 +63,7 @@ cap.release()
 cv2.destroyAllWindows()
 ```
 
-For full implementation, refer to the `video_object_tracking.py` script.
+For full implementation, refer to the `video_object_tracking.ipynb` script.
 
 ### Tracking Method:
 - **IoU Tracking**: Tracks each object separately based on the Intersection over Union (IoU) method, ensuring different classes are not mixed in tracking results.
@@ -105,7 +105,7 @@ plt.axis('off')
 plt.show()
 ```
 
-For full implementation, refer to the `image_object_detection.py` script.
+For full implementation, refer to the `image_object_detection.ipynb` script.
 
 ## Dataset
 
